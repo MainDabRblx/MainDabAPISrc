@@ -6,3 +6,6 @@ no
 
 # Is it updated for the lastest roblox version?
 no
+
+# am i gay 
+stop talking about yourself
