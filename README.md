@@ -7,9 +7,6 @@ no
 # Is it updated for the lastest roblox version?
 no
 
-# am i gay 
-stop talking about yourself
-
 # Other releases related to MainDab
 => MainDab's SS Code - https://github.com/MainDabRblx/MainDabServersideSrc
 
